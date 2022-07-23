@@ -3,6 +3,8 @@ building a computer without hardware, his name is MAX Just the beginning.
 
 
 THIS IS THE OUTPUT:
+
+
 +---------------+----------------+
  | AND Truth Table | Result |
  A = False, B = False | A AND B = False  | 
